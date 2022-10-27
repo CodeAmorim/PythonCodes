@@ -1,0 +1,29 @@
+1 - Criar a janela do jogo
+
+2 - Criar um titulo, logo e fundo da janela do jogo
+
+3 - Adicionar imagens à tela do jogo
+
+4 - Mecanicas de movimento no desenvolvimento do jogo
+
+5 - Controles de entrada no teclado para ações no jogo
+
+6 - Adicionando fronteiras para o jogo
+
+7 - Criando um inimigo
+
+8 - Movimento e mecanica de movimento do inimigo
+
+9 - Adicionando um background do jogo
+
+10 - Criando a interação entre os personagens
+
+11 - Detecção de colisao
+
+12 - Criando multiplos inimigos
+
+13 - Adicionando texto e pontuação
+
+14 - Adicionando efeitos de som e musica de fundo
+
+15 - Game Over
